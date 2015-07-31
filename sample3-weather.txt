@@ -1,0 +1,3 @@
+Weather: Sunny, Cloudy, Rain
+Humidity: 30, 40, 50
+Temperature: 10, 20, 30
