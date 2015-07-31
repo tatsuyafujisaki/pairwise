@@ -1,11 +1,10 @@
-###### PICT
-Pairwise Independent Combinatorial Testing
-
 ###### Preparation
 Install PICT from [Microsoft](http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi)
 
 ###### Usage
 ```batch
+Pairwise Independent Combinatorial Testing
+
 Usage: pict model [options]
 
 Options:
