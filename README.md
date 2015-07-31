@@ -1,3 +1,10 @@
+###### What is PICT
+* "Pairwise Independent Combinatorial Testing"
+* Microsoft's official testing tool
+
+###### User guide
+http://htmlpreview.github.io/?github.com/tatsuya/all-pairs/blob/master/official-user-guide.html
+
 ###### How to install PICT
 1. Download http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi
 2. Run pict33.msi
