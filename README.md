@@ -3,8 +3,6 @@ Install PICT from [Microsoft](http://download.microsoft.com/download/f/5/5/f5548
 
 ###### Usage
 ```batch
-Pairwise Independent Combinatorial Testing
-
 Usage: pict model [options]
 
 Options:
