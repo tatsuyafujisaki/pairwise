@@ -18,7 +18,7 @@ Options:
 ```
 
 ###### References
-[Pairwise Testing in the Real World: Practical Extensions to Test-Case Scenarios @ MSDN](https://msdn.microsoft.com/en-us/library/cc150619.aspx)
-[Pairwise Testing & PICT Tool @ MSDN](http://blogs.msdn.com/b/nagasatish/archive/2006/11/30/pairwise-testing-pict-tool.aspx)
-[Pairwise Testing for Dummies @ MSDN](http://blogs.msdn.com/b/davfries/archive/2004/06/17/158900.aspx)
-[All-pairs testing @ Wikipedia](https://en.wikipedia.org/wiki/All-pairs_testing)
+* [Pairwise Testing in the Real World: Practical Extensions to Test-Case Scenarios @ MSDN](https://msdn.microsoft.com/en-us/library/cc150619.aspx)
+* [Pairwise Testing & PICT Tool @ MSDN](http://blogs.msdn.com/b/nagasatish/archive/2006/11/30/pairwise-testing-pict-tool.aspx)
+* [Pairwise Testing for Dummies @ MSDN](http://blogs.msdn.com/b/davfries/archive/2004/06/17/158900.aspx)
+* [All-pairs testing @ Wikipedia](https://en.wikipedia.org/wiki/All-pairs_testing)
