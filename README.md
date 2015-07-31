@@ -1,6 +1,5 @@
 ###### Preparation
-1. Download [pict33.msi](http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi)
-2. Run pict33.msi
+Download and run [pict33.msi](http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi).
 
 ###### Usage
 ```batch
