@@ -1,7 +1,7 @@
-###### Preparation
+# Preparation
 Install PICT from [Microsoft](http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi)
 
-###### Usage of PICT
+# Usage of PICT
 ```batch
 Usage: pict model [options]
 
@@ -16,7 +16,7 @@ Options:
  /s      - Show model statistics
 ```
 
-###### References
+# References
 * [PICT 3.3 User’s Guide](http://htmlpreview.github.io/?https://github.com/tatsuya/all-pairs/blob/master/official-user-guide.html)
 * [Pairwise Testing in the Real World: Practical Extensions to Test-Case Scenarios @ MSDN](https://msdn.microsoft.com/en-us/library/cc150619.aspx)
 * [Pairwise Testing & PICT Tool @ MSDN](http://blogs.msdn.com/b/nagasatish/archive/2006/11/30/pairwise-testing-pict-tool.aspx)
