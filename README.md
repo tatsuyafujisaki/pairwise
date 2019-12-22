@@ -1,5 +1,5 @@
-# Preparation
-Install PICT from http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi
+# How to install PICT
+http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi
 
 # Usage
 https://github.com/Microsoft/pict/blob/master/doc/pict.md
