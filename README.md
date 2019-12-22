@@ -1,7 +1,7 @@
 # Preparation
-Install PICT from [Microsoft](http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi)
+Install PICT from https://github.com/microsoft/pict
 
-# Usage of PICT
+# Usage
 ```batch
 Usage: pict model [options]
 
