@@ -1,20 +1,8 @@
 # Preparation
-Install PICT from https://github.com/microsoft/pict
+Install PICT from http://download.microsoft.com/download/f/5/5/f55484df-8494-48fa-8dbd-8c6f76cc014b/pict33.msi
 
 # Usage
-```batch
-Usage: pict model [options]
-
-Options:
- /o:N    - Order of combinations (default: 2)
- /d:C    - Separator for values  (default: ,)
- /a:C    - Separator for aliases (default: |)
- /n:C    - Negative value prefix (default: ~)
- /e:file - File with seeding rows
- /r[:N]  - Randomize generation, N - seed
- /c      - Case-sensitive model evaluation
- /s      - Show model statistics
-```
+https://github.com/Microsoft/pict/blob/master/doc/pict.md
 
 # References
 * [PICT 3.3 User’s Guide](http://htmlpreview.github.io/?https://github.com/tatsuya/all-pairs/blob/master/official-user-guide.html)
